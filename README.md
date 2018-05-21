@@ -2,7 +2,11 @@
 
 ### Haskell
 
-[Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)  [读书笔记](#1)  blog#1
+[Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)  [读书笔记](#1)  
+
+#1
+
+blog#1
 
 
 
